@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with [Startup-toolkit](https://github.com/Mariyamalikho/Startup-toolkit)
 
-- 📝 I regularly write articles on [Coming soon...](Coming soon...)
+- 📝 I regularly write articles on (Coming soon...)
 
 - 💬 Ask me about **Graphic Design, Branding, UI/UX, GitHub, Web Development**
 
