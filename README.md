@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Portfolio-archive](https://github.com/Mariyamalikho/Portfolio-archive)
 
-- 🌱 I’m currently learning **Python, Cybersecurity, AI Engineering & System Design**
+- 🌱 I’m currently learning **Python, Cybersecurity, Digital Forensics**
 
 - 👯 I’m looking to collaborate on [Glitch.exe](https://github.com/Mariyamalikho/Glitch.exe)
 
