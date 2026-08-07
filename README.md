@@ -1,7 +1,7 @@
 <h1 align="center">Heyy, I'm Mariyam</h1>
 <h3 align="center">Designer × Developer × Problem Solver</h3>
 
-- 🔭 I’m currently working on [Portfolio-archive](https://github.com/Mariyamalikho/Portfolio-archive)
+- 🔭 I’m currently working on [IELTS-Assistant](https://github.com/Mariyamalikho/IELTS-Assistant).
 
 - 🌱 I’m currently learning **Python, Cybersecurity, Digital Forensics**
 
